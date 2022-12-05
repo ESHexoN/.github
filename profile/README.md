@@ -1,4 +1,4 @@
-## ESHexoN.js
+## ESHexoN
 
 ### 什么是 ESHexoN?
 
